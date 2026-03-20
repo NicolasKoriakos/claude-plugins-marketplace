@@ -7,7 +7,7 @@ A curated marketplace of Claude Code plugins for developer productivity and AI-p
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add YOUR_USERNAME/claude-plugins-marketplace
+/plugin marketplace add NicolasKoriakos/claude-plugins-marketplace
 ```
 
 Then browse and install plugins:
@@ -20,7 +20,7 @@ Then browse and install plugins:
 
 | Plugin | Description |
 |--------|-------------|
-| **[claude-focus](https://github.com/YOUR_USERNAME/claude-focus)** | Auto-focuses VS Code when Claude Code needs input, finishes a task, or hits an error |
+| **[claude-focus](https://github.com/NicolasKoriakos/claude-focus)** | Auto-focuses VS Code when Claude Code needs input, finishes a task, or hits an error |
 
 ## Adding Plugins
 
@@ -40,7 +40,7 @@ Auto-install this marketplace for your team by adding to your project's `.claude
     "nic-claude-plugins": {
       "source": {
         "source": "github",
-        "repo": "YOUR_USERNAME/claude-plugins-marketplace"
+        "repo": "NicolasKoriakos/claude-plugins-marketplace"
       }
     }
   }

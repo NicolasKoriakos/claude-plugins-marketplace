@@ -14,7 +14,7 @@
       "description": "Auto-focuses VS Code when Claude Code needs input, finishes a task, or hits an error. No more alt-tabbing — your editor comes to you.",
       "source": {
         "source": "github",
-        "repo": "YOUR_USERNAME/claude-focus"
+        "repo": "NicolasKoriakos/claude-focus"
       },
       "version": "1.0.0",
       "author": {
